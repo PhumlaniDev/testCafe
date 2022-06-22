@@ -9,7 +9,7 @@ To run tests, run the following command
 First install the dependencies
 
 ```bash
-  npm install test
+  npm install
 ```
 
 ```bash
