@@ -1,0 +1,15 @@
+{
+	"name": "jobjack",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test:chrome": "testcafe chrome index.js -s taskOnFails=true"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"testcafe": "^1.19.0"
+	}
+}
